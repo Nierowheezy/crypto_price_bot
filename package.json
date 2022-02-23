@@ -1,0 +1,17 @@
+{
+  "name": "crypto_price_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crypto_price_bot.js",
+  "scripts": {
+    "dev": "node crypto_price_bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.10",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
